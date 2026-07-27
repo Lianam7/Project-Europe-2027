@@ -1,0 +1,5 @@
+print("Hello world")
+print("My name is Liana")
+print("This is my Python journey")
+print("I will study in Europe")
+print("Project europe 2027")
